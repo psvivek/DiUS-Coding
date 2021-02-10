@@ -1,6 +1,6 @@
 # DiUS-Coding Challenge
 
-### Shopping Challenge:
+### [Shopping Challenge](https://github.com/psvivek/DiUS-Coding/blob/main/dius_shopping.py): 
 
 * Rules are written in a way that are not dependent on the SKU (Key) and can be used for different products with same deal.
 
@@ -15,7 +15,7 @@
   * Test case #4: This test case uses all rules that are in the problem statement.
   * Test case #5: Contains less number of VGAs and more of MBPs.
   
-### Bowling Challenge:
+### [Bowling Challenge](https://github.com/psvivek/DiUS-Coding/blob/main/dius_bowling.py):
 
 * Created Bowling class that implements all the rules mentioned in the problem statement.
 
